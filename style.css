@@ -1,0 +1,11 @@
+.container h4 {
+  text-align: center;
+}
+
+.container {
+  background: rgb(240,240,240);
+}
+
+nav {
+  padding-left: 2rem;
+}
